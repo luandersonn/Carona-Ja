@@ -1,0 +1,26 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+}
+
+.right {
+    right: 0;
+}
+
+.login_page_title {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.centered img {
+    width: 150%;
+}

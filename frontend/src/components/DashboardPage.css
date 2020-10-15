@@ -1,0 +1,10 @@
+.add_ride_button {
+    margin-left: 20px;
+    padding: 10px;
+    height: auto;
+    width: auto;
+}
+
+.add_ride_button a {
+    color: white;
+}

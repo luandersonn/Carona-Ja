@@ -1,0 +1,22 @@
+{
+    "users": [{
+            "name": "Luandersonn",
+            "id": "luan",
+            "password": "1234",
+            "type": "passenger"
+        },
+        {
+            "name": "Marcus",
+            "id": "marcus",
+            "password": "1234",
+            "type": "driver"
+        }
+    ],
+    "rides": [{
+        "id": 1,
+        "driver": "marcus",
+        "passenger": "luan",
+        "date": "2020-10-20",
+        "destination": "Fortaleza"
+    }]
+}
